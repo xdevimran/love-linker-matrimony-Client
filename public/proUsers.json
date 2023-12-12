@@ -1,0 +1,57 @@
+[
+    {
+      "biodataId": 1,
+      "biodataType": "Male",
+      "profileImage": "https://via.placeholder.com/300",
+      "permanentDivision": "Dhaka",
+      "age": 23,
+      "occupation": "Student",
+      "role": "Pro"
+    },
+    {
+      "biodataId": 2,
+      "biodataType": "Female",
+      "profileImage": "https://via.placeholder.com/300",
+      "permanentDivision": "Khulna",
+      "age": 30,
+      "occupation": "Job",
+      "role": "Free"
+    },
+    {
+      "biodataId": 3,
+      "biodataType": "Male",
+      "profileImage": "https://via.placeholder.com/300",
+      "permanentDivision": "Sylhet",
+      "age": 45,
+      "occupation": "Housewife",
+      "role": "Pro"
+    },
+    {
+      "biodataId": 4,
+      "biodataType": "Female",
+      "profileImage": "https://via.placeholder.com/300",
+      "permanentDivision": "Rangpur",
+      "age": 30,
+      "occupation": "Student",
+      "role": "Free"
+    },
+    {
+      "biodataId": 5,
+      "biodataType": "Male",
+      "profileImage": "https://via.placeholder.com/300",
+      "permanentDivision": "Barisal",
+      "age": 23,
+      "occupation": "Job",
+      "role": "Pro"
+    },
+    {
+      "biodataId": 6,
+      "biodataType": "Female",
+      "profileImage": "https://via.placeholder.com/300",
+      "permanentDivision": "Maymansign",
+      "age": 45,
+      "occupation": "Housewife",
+      "role": "Free"
+    }
+  ]
+  
